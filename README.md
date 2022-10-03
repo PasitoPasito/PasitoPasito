@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PasitoPasito
 - 👀 I’m interested in Data Analytics, Data Science and Management stuff.
 - 🌱 I’m currently learning R and Python.
-- 💞️ I’m looking to collaborate on Analysing data and may be building ML models for data science.
+- 💞️ I’m looking to collaborate on Analysing data and may be building ML models for data science in the future.
 - 📫 How to reach me jeevanaj62420@gmail.com.
 
 <!---
